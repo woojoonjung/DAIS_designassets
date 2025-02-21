@@ -34,7 +34,7 @@
 
 |본문|
 |:---:|
-|<img src="./_ref/divider.png" width="450"/>|
+|<img src="./_ref/text.png" width="450"/>|
 |본문 페이지입니다. 줄에서 \tab키를 통해 level을 조절할 수 있습니다.|
 
 
