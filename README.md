@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- logo -->
-<img src="./_logo/DAIS_logo_RGB/4x/color@4x.png" width="400"/>
+<img src="./_logo/DAIS_logo_RGB/4x/color@4x.png" width="240"/>
 
 </div> 
 
